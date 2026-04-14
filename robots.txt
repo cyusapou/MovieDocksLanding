@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://movie-docks-6c1l.vercel.app/sitemap.xml
