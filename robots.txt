@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://movie-docks-6c1l.vercel.app/sitemap.xml
+Sitemap: https://movie-docks-landing-je6n.vercel.app/sitemap.xml
